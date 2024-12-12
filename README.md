@@ -5,7 +5,7 @@ Love Food, Hate Waste
 
 ## Summary:
 
-1. This App was the #1 winner of [Georgia Tech's Convergence Innovation Competition Spring 2017](https://research.gatech.edu/ipat/cic/spring-2017)
+1. This App was the #1 winner of [Georgia Tech's Convergence Innovation Competition Spring 2017](https://research.gatech.edu/ipat/cic/spring-2017). Refer to the [Photo](https://www.facebook.com/photo/?fbid=1621351304549231&set=a.1621255594558802)
 2. Refer to: [Video](https://youtu.be/mftgRBu0Szc), and [Presentation](https://docs.google.com/presentation/d/1rpllEmf-GpftYP1EQE9lSo4GahJiYjlZ2yKIz9j1qPU/edit?usp=sharing)
 
 ## Problem 
