@@ -1,1 +1,1 @@
-# food-for-thought
+# Food For Thought
